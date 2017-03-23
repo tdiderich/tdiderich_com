@@ -55,9 +55,9 @@ WSGI_APPLICATION = 'django_project.wsgi.application'
 
 #templates
 
-TEMPLATE_DIRS = (
-    join(BASE_DIR,  '/tdiderich/templates'),
-)
+#TEMPLATE_DIRS = (
+#    join(BASE_DIR,  'templates'),
+#)
 
 # Database
 # https://docs.djangoproject.com/en/1.6/ref/settings/#databases
