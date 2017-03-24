@@ -8,5 +8,4 @@ admin.autodiscover()
 urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
     url(r'^$', views.home),
-    staticfiles_urlpatterns(),
 ]
