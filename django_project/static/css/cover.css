@@ -26,7 +26,7 @@ a:hover {
 
 html,
 body {
-  background: url('http://www.wallpaperbetter.com/wallpaper/374/427/781/golden-gate-bridge-bridge-san-francisco-sunset-clouds-ocean-plants-hd-1080P-wallpaper.jpg') no-repeat center center fixed;
+  background: url(http://www.wallpaperbetter.com/wallpaper/374/427/781/golden-gate-bridge-bridge-san-francisco-sunset-clouds-ocean-plants-hd-1080P-wallpaper.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
