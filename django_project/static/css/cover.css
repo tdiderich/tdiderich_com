@@ -7,17 +7,17 @@
 a,
 a:focus,
 a:hover {
-  color: #00004d;
+  color: #fff;
 }
 
 /* Custom default button */
 .btn-default,
 .btn-default:hover,
 .btn-default:focus {
-  color: #00004d;
+  color: #e60000;
   text-shadow: none; /* Prevent inheritance from `body` */
-  background-color: #00004d;
-  border: 1px solid #00004d;
+  background-color: #fff;
+  border: 1px solid #fff;
 }
 
 
@@ -37,9 +37,9 @@ body {
   /*css for layout*/
   /*background-color: #CF3413;*/
   height: 100%;
-  color: #00004d;
+  color: #fff;
   text-align: center;
-  text-shadow: 0 1px 3px rgba(222, 222, 222, 1);
+  text-shadow: 0 1px 3px rgba(230, 0, 0, 1);
 }
 
 
@@ -49,8 +49,8 @@ body {
   width: 100%;
   height: 100%; /* For at least Firefox */
   min-height: 100%;
-  -webkit-box-shadow: inset 0 0 100px rgba(222, 222, 222, 1);
-          box-shadow: inset 0 0 100px rgba(222, 222, 222, 1);
+  -webkit-box-shadow: inset 0 0 100px rgba(230, 0, 0, 1);
+          box-shadow: inset 0 0 100px rgba(230, 0, 0, 1);
 }
 .site-wrapper-inner {
   display: table-cell;
@@ -99,8 +99,8 @@ body {
 .masthead-nav > .active > a,
 .masthead-nav > .active > a:hover,
 .masthead-nav > .active > a:focus {
-  color: #00004d;
-  border-bottom-color: #00004d;
+  color: #fff;
+  border-bottom-color: #fff;
 }
 
 @media (min-width: 768px) {
