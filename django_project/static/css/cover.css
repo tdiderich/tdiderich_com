@@ -14,7 +14,7 @@ a:hover {
 .btn-default,
 .btn-default:hover,
 .btn-default:focus {
-  color: #CF3413;
+  color: #00004d;
   text-shadow: none; /* Prevent inheritance from `body` */
   background-color: #fff;
   border: 1px solid #fff;
@@ -39,7 +39,7 @@ body {
   height: 100%;
   color: #00004d;
   text-align: center;
-  text-shadow: 0 1px 3px rgba(0,0,0,.5);
+  text-shadow: 0 1px 3px rgba(222, 222, 222, 1);
 }
 
 
@@ -49,8 +49,8 @@ body {
   width: 100%;
   height: 100%; /* For at least Firefox */
   min-height: 100%;
-  -webkit-box-shadow: inset 0 0 100px rgba(0,0,0,.5);
-          box-shadow: inset 0 0 100px rgba(0,0,0,.5);
+  -webkit-box-shadow: inset 0 0 100px rgba(222, 222, 222, 1);
+          box-shadow: inset 0 0 100px rgba(222, 222, 222, 1);
 }
 .site-wrapper-inner {
   display: table-cell;
