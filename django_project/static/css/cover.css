@@ -7,7 +7,7 @@
 a,
 a:focus,
 a:hover {
-  color: #fff;
+  color: #00004d;
 }
 
 /* Custom default button */
@@ -16,8 +16,8 @@ a:hover {
 .btn-default:focus {
   color: #00004d;
   text-shadow: none; /* Prevent inheritance from `body` */
-  background-color: #fff;
-  border: 1px solid #fff;
+  background-color: #00004d;
+  border: 1px solid #00004d;
 }
 
 
@@ -86,7 +86,7 @@ body {
   padding-left: 0;
   font-size: 16px;
   font-weight: bold;
-  color: #fff; /* IE8 proofing */
+  color: #00004d; /* IE8 proofing */
   color: rgba(255,255,255,.75);
   border-bottom: 2px solid transparent;
 }
@@ -99,8 +99,8 @@ body {
 .masthead-nav > .active > a,
 .masthead-nav > .active > a:hover,
 .masthead-nav > .active > a:focus {
-  color: #fff;
-  border-bottom-color: #fff;
+  color: #00004d;
+  border-bottom-color: #00004d;
 }
 
 @media (min-width: 768px) {
