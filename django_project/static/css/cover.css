@@ -37,7 +37,7 @@ body {
   /*css for layout*/
   height: 100%;
   background-color: #CF3413;
-  color: #fff;
+  color: #4d4d00;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
 }
@@ -99,7 +99,7 @@ body {
 .masthead-nav > .active > a,
 .masthead-nav > .active > a:hover,
 .masthead-nav > .active > a:focus {
-  color: #fff;
+  color: #4d4d00;
   border-bottom-color: #fff;
 }
 
