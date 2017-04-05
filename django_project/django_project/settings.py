@@ -25,7 +25,13 @@ DEBUG = True
 
 TEMPLATE_DEBUG = True
 
-ALLOWED_HOSTS = ['104.236.148.144', 'tdiderich.com', 'www.tdiderich.com']
+ALLOWED_HOSTS = [
+    '104.236.148.144',
+    'tdiderich.com',
+    'www.tdiderich.com',
+    'http://www.tdiderich.com',
+    'https://www.tdiderich.com',
+]
 
 
 # Application definition
